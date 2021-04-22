@@ -17,8 +17,8 @@ e aprendizagem e por ultimo um letreiro de Good Vibes](https://github.com/raquel
 <center>
 <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=raquelglopes&theme=buefy"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelglopes&layout=compact](https://https://github.com/raquelglopes/github-readme-stats)" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=raquelglopes&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelglopes&layout=compact](https://https://github.com/raquelglopes/github-readme-stats)"/></td>
     </tr>   
 </table>
 </center>  
