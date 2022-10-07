@@ -6,7 +6,7 @@ e aprendizagem e por ultimo um letreiro de Good Vibes](https://github.com/raquel
 # Eu sou a Raquel Lopes !
 
 - 🎓 Atualmente sou graduanda de Engenharia de Computação e Tecnologia em Big Data e Inteligencia Analitica.
-- 📲  Trabalho no Meli como Desenvolvedora IOS
+- 📲 Desenvolvedora IOS
 - 🎀 Pronome: Ela
 
 ## Midias Sociais
