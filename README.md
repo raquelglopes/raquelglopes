@@ -1,17 +1,17 @@
-![Banner com o nome RAquel Lopes centralizado, abaico uma frase: "O que me move: A imagem de duas criancas negras representando meus filhos , ao lado um cerebro que representa tecnologia
+![Banner com o nome RAquel Lopes centralizado, abaixo uma frase: "O que me move: A imagem de duas criancas negras representando meus filhos , ao lado um cerebro que representa tecnologia
 e aprendizagem e por ultimo um letreiro de Good Vibes](https://github.com/raquelglopes/raquelglopes/blob/main/GitProfile.png)
 
 
 # Hi There 👋
 # Eu sou a Raquel Lopes !
 
-- 🎓 Atualmente sou graduanda de Engenharia de Computação e Tecnologia em Big Data e Inteligencia Analitica.
-- 📲 Desenvolvedora IOS
+- 🎓 Atualmente sou graduanda de Engenharia de Sistemas e Ciencia de Dados.
+- 📲 Cientista de Dados
 - 🎀 Pronome: Ela
 
 ## Midias Sociais
 
-<a href="https://www.linkedin.com/in/raquel-lopes-39421192/"><img src="https://github.com/raquelglopes/raquelglopes/blob/f05fec8ada85bb302c7c5ce068ec543df27c9302/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/raquel-lopes-39421192/)  
+<a href="https://www.linkedin.com/in/raquelglopes/"><img src="https://github.com/raquelglopes/raquelglopes/blob/f05fec8ada85bb302c7c5ce068ec543df27c9302/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/raquelglopes/)  
 
 <center>
 <table>
