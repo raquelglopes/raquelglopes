@@ -5,7 +5,7 @@ e aprendizagem e por ultimo um letreiro de Good Vibes](https://github.com/raquel
 # Hi There 👋
 # Eu sou a Raquel Lopes !
 
-- 🎓 Atualmente sou graduanda de Engenharia de Sistemas e Ciencia de Dados.
+- 🎓 Atualmente sou graduanda em Ciencia de Dados.
 - 📲 Cientista de Dados
 - 🎀 Pronome: Ela
 
